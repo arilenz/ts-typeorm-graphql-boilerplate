@@ -4,7 +4,7 @@
   "main": "source/index.ts",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.6.4",
+    "apollo-server": "^2.14.2",
     "glob": "^7.1.4",
     "graphql": "^14.3.1",
     "graphql-tools": "^4.0.5",
